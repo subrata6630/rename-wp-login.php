@@ -42,16 +42,6 @@ If you wish, you can block wp-login.php with `.htaccess` from now on.
 4. The page will redirect you to the settings. Rename wp-login.php there.
 5. You can change this option any time you want, just go back to Settings › Permalinks › Rename wp-login.php.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VdeDCsoT9iw" frameborder="0" allowfullscreen></iframe>
-
-<object width="425" height="350">
-  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
 == Frequently Asked Questions ==
 
 = I forgot my login url!  =
